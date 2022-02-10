@@ -1,4 +1,4 @@
-# week_2_assignment
+# BALL BOUNCE
 #The project name was ball bounce
 The project creates to move the ball for all the corners like top,bottom,left,right.
 #The ball once reach the destination of the window it bounce to the another direction
